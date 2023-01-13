@@ -1,0 +1,77 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+nav {
+  opacity: 0.7;
+  border-bottom: 3px solid #008ed6;
+}
+#home {
+  background: url(img/home.jpg) center no-repeat fixed;
+  background-size: cover;
+  min-height: 700px;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  min-height: 700px;
+}
+.home-title {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.lorem {
+  font-size: 1.25rem;
+  font-weight: 100;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  font-size: 35px;
+  border-radius: 5px;
+  margin-left: rem;
+  margin-top: 1rem;
+}
+.first-explore {
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+}
+.explore-text {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.explore-find:hover {
+  background-color: #fff;
+  color: black;
+}
+.explore-img {
+  max-width: 100%;
+}
+.ico {
+  margin: 1rem;
+}
+.second-lorem {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.create-img {
+  max-width: 100%;
+}
+.create-text {
+  font-size: 1.25rem;
+  font-weight: 100;
+}
+.create-icon {
+  background: white;
+  color: #008ed6;
+  font-size: 30px;
+  border-radius: 5px;
+  padding: 4px;
+  margin-top: 6px;
+}
